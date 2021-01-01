@@ -1,2 +1,2 @@
 # python-projects
-Just a bunch I'm working on for fun
+Just a bunch of projects I'm working on to improve
