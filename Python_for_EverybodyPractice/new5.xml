@@ -1,0 +1,26 @@
+<breakfast_menu>
+  <food /><food>
+    <name>Strawberry Belgian Waffles</name>
+    <price>$7.95</price>
+    <description updated="yes">Light Belgian waffles covered with strawberries and whipped creamDescription has been added</description>
+    <calories>900</calories>
+  </food>
+  <food>
+    <name>Berry-Berry Belgian Waffles</name>
+    <price>$8.95</price>
+    <description updated="yes">Light Belgian waffles covered with an assortment of fresh berries and whipped creamDescription has been added</description>
+    <calories>900</calories>
+  </food>
+  <food>
+    <name>French Toast</name>
+    <price>$4.50</price>
+    <description updated="yes">Thick slices made from our homemade sourdough breadDescription has been added</description>
+    <calories>600</calories>
+  </food>
+  <food>
+    <name>Homestyle Breakfast</name>
+    <price>$6.95</price>
+    <description updated="yes">South Nigerian Fishes</description>
+    <calories>950</calories>
+  </food>
+</breakfast_menu>
