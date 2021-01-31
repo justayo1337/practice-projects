@@ -1,7 +1,8 @@
 #include <iostream>
 
+using namespace std;
 int main() {
 
-    std::cout << "Hello World!\n";
-    std::cout << "I'm a C++ program";
+    cout << "Hello World!\n";
+    cout << "I'm a C++ program";
 }
