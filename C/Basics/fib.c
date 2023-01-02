@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #define MAX 10000
+
 //function to append the 
 
 int fib(int *arr, int num){
